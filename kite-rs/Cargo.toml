@@ -1,0 +1,7 @@
+[package]
+name = "kite-rs"
+version = "0.1.0"
+authors = ["Iwan van der Kleijn <iwanvanderkleijn@gmail.com>"]
+edition = "2018"
+
+[dependencies]

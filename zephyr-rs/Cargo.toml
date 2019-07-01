@@ -1,7 +1,0 @@
-[package]
-name = "zephyr-rs"
-version = "0.1.0"
-authors = ["Iwan van der Kleijn <ivanderk@capgemini.com>"]
-edition = "2018"
-
-[dependencies]
